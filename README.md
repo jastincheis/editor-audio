@@ -2,6 +2,8 @@
 
 Un editor audio simplu, în stilul Sound Forge, care rulează în browser. E un singur fișier HTML, fără instalare și fără server.
 
+**Deschide-l direct în browser:** https://jastincheis.github.io/editor-audio/
+
 ## Ce face
 
 - Deschide **MP3, WAV, FLAC, OGG, M4A**, din buton sau prin drag & drop pe o pistă
@@ -16,7 +18,9 @@ Un editor audio simplu, în stilul Sound Forge, care rulează în browser. E un 
 
 ## Cum îl pornești
 
-Deschide `index.html` în Chrome sau Chromium. Ca aplicație separată:
+Cel mai simplu: deschide https://jastincheis.github.io/editor-audio/ în Chrome sau Chromium.
+
+Local: deschide `index.html` în Chrome sau Chromium. Ca aplicație separată:
 
 ```sh
 chromium --app=file:///cale/catre/editor-audio/index.html
