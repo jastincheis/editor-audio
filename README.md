@@ -45,3 +45,7 @@ Merge și offline: encoderul MP3 e inclus local.
 ## Componente externe
 
 - [lamejs](https://github.com/zhuker/lamejs) 1.2.1 (`lame.min.js`), encoder MP3, licență LGPL-3.0
+
+## Licență
+
+Codul editorului (`index.html`) e publicat sub licența [MIT](LICENSE): oricine îl poate folosi, modifica și redistribui liber, cu păstrarea mențiunii de copyright. Encoderul inclus, `lame.min.js`, își păstrează licența proprie (LGPL-3.0).
